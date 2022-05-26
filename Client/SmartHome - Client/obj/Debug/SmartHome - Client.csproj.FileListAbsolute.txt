@@ -1,0 +1,70 @@
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\obj\Debug\SmartHome - Client.csprojAssemblyReference.cache
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\obj\Debug\SmartHome - Client.csproj.CoreCompileInputs.cache
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\SmartHome - Client.exe.config
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\SmartHome - Client.exe
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\SmartHome - Client.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\Glacier2.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\Ice.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceBox.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceDiscovery.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceGrid.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceLocatorDiscovery.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IcePatch2.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceSSL.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceStorm.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\Glacier2.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\Glacier2.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\Ice.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\Ice.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceBox.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceBox.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceDiscovery.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceDiscovery.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceGrid.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceGrid.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceLocatorDiscovery.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceLocatorDiscovery.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IcePatch2.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IcePatch2.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceSSL.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceSSL.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceStorm.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\bin\Debug\IceStorm.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\obj\Debug\SmartHome - Client.csproj.CopyComplete
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\obj\Debug\SmartHome - Client.exe
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\SmartHome - Client\obj\Debug\SmartHome - Client.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\SmartHome - Client.exe.config
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\SmartHome - Client.exe
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\SmartHome - Client.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\Glacier2.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\Ice.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceBox.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceDiscovery.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceGrid.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceLocatorDiscovery.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IcePatch2.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceSSL.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceStorm.dll
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\Glacier2.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\Glacier2.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\Ice.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\Ice.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceBox.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceBox.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceDiscovery.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceDiscovery.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceGrid.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceGrid.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceLocatorDiscovery.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceLocatorDiscovery.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IcePatch2.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IcePatch2.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceSSL.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceSSL.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceStorm.pdb
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\bin\Debug\IceStorm.xml
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\obj\Debug\SmartHome - Client.csprojAssemblyReference.cache
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\obj\Debug\SmartHome - Client.csproj.CoreCompileInputs.cache
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\obj\Debug\SmartHome - Client.csproj.CopyComplete
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\obj\Debug\SmartHome - Client.exe
+C:\Users\Fisiek\Documents\Informatyka studies\IO\EMTv2\EMT\SmartHome\Client\SmartHome - Client\obj\Debug\SmartHome - Client.pdb
