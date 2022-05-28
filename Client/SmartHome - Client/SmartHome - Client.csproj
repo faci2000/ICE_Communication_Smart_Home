@@ -74,7 +74,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="generated\smartHome.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="Models\Handler.cs" />
+    <Compile Include="Models\lights\MonoChromaticLightHandler.cs" />
+    <Compile Include="Models\lights\RgbwLightHandler.cs" />
+    <Compile Include="Models\network monitors\IPv6NetworkMonitorHandler.cs" />
+    <Compile Include="Models\network monitors\NatNetworkMonitorHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

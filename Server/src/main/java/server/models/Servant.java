@@ -1,10 +1,10 @@
 package server.models;
 
 
-import smartHome.SmartHomeDevice;
+import generated.SmartHomeDevice;
 
 abstract public class Servant {
-    private final SmartHomeDevice device;
+    protected final SmartHomeDevice device;
 
     public Servant(SmartHomeDevice device) {
         this.device = device;

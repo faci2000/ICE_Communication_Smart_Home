@@ -4,21 +4,33 @@ import com.zeroc.Ice.Communicator;
 import com.zeroc.Ice.Identity;
 import com.zeroc.Ice.ObjectAdapter;
 import com.zeroc.Ice.Util;
-import server.models.Light.MonoChromaticLedLightServant;
-import server.models.Light.RgbwLightServant;
-import server.models.NetworkMonitor.IPv6NetworkMonitorServant;
-import server.models.NetworkMonitor.NatNetworkMonitorServant;
+import server.helpers.DevicesStatusPrinter;
+import server.models.lights.MonoChromaticLedLightServant;
+import server.models.lights.RgbwLightServant;
+import server.models.network_monitors.IPv6NetworkMonitorServant;
+import server.models.network_monitors.NatNetworkMonitorServant;
 
-public class Server {
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
-    public void listen(String[] args)
+public class Server implements Runnable{
+
+    public final DevicesStatusPrinter devicesStatusPrinter;
+    private final Communicator communicator;
+
+    public Server(String[] args) {
+        devicesStatusPrinter = new DevicesStatusPrinter();
+        communicator = Util.initialize(args);
+    }
+
+    @Override
+    public void run()
     {
         int status = 0;
-        Communicator communicator = null;
 
         try	{
             // 1. Inicjalizacja ICE - utworzenie communicatora
-            communicator = Util.initialize(args);
+
 
             // 2. Konfiguracja adaptera
             // METODA 1 (polecana produkcyjnie): Konfiguracja adaptera Adapter1 jest w pliku konfiguracyjnym podanym jako parametr uruchomienia serwera
@@ -26,15 +38,16 @@ public class Server {
             ObjectAdapter adapter = communicator.createObjectAdapterWithEndpoints("Server1", "tcp -h 127.0.0.11 -p 10000");
 
                // 3. Stworzenie serwanta/serwantów
-//            CalcI calcServant1 = new CalcI();
-//            CalcI calcServant2 = new CalcI();
-//            CalcI calcServant3 = new CalcI();
+            devicesStatusPrinter.registerDevice(new IPv6NetworkMonitorServant("IPv6NetworkMonitor"));
+            devicesStatusPrinter.registerDevice(new NatNetworkMonitorServant("NatNetworkMonitor"));
+            devicesStatusPrinter.registerDevice(new RgbwLightServant("RgbwLight"));
+            devicesStatusPrinter.registerDevice(new MonoChromaticLedLightServant("MonoChromaticLedLight"));
 
             // 4. Dodanie wpisów do tablicy ASM, skojarzenie nazwy obiektu (Identity) z serwantem
-            adapter.add(new IPv6NetworkMonitorServant(), new Identity("IPv6NetworkMonitor", "NetworkMonitoring"));
-            adapter.add(new NatNetworkMonitorServant(), new Identity("NatNetworkMonitor", "NetworkMonitoring"));
-            adapter.add(new RgbwLightServant(), new Identity("RgbwLight", "Lighting"));
-            adapter.add(new MonoChromaticLedLightServant(), new Identity("MonoChromaticLedLight", "Lighting"));
+            adapter.add(devicesStatusPrinter.get(0), new Identity("IPv6NetworkMonitor", "NetworkMonitoring"));
+            adapter.add(devicesStatusPrinter.get(1), new Identity("NatNetworkMonitor", "NetworkMonitoring"));
+            adapter.add(devicesStatusPrinter.get(2), new Identity("RgbwLight", "Lighting"));
+            adapter.add(devicesStatusPrinter.get(3), new Identity("MonoChromaticLedLight", "Lighting"));
 
             // 5. Aktywacja adaptera i wejście w pętlę przetwarzania żądań
             adapter.activate();
@@ -61,7 +74,10 @@ public class Server {
 
     public static void main(String[] args)
     {
-        Server server = new Server();
-        server.listen(args);
+        ExecutorService executorService = Executors.newFixedThreadPool(2);
+        Server server = new Server(args);
+        executorService.submit(server);
+        executorService.submit(server.devicesStatusPrinter);
+
     }
 }
